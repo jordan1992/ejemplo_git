@@ -77,3 +77,5 @@ class AvatarsController < ApplicationController
     end
 end
 puts 'hola mundo'
+
+gets 'lucky'
